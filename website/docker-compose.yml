@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  reactjs:
+    container_name: reactjs-website
+    restart: always
+    build: ./
+    ports:
+      - '80:80'
+    environment:
+      PORT: "80"
