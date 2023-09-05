@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "@tmcw/togeojson": "^5.2.1",
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^16.0.1",
+    "fetch": "^1.1.0",
+    "got": "^10.4.0",
+    "node-fetch": "^3.2.4",
+    "node-schedule": "^2.1.0",
+    "puppeteer": "^13.7.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "run": "^1.4.0",
+    "start": "^5.1.0",
+    "sync-fetch": "^0.3.1",
+    "worker-threads": "^1.0.0",
+    "xmldom": "^0.6.0"
+  },
+  "name": "htmlparser",
+  "version": "0.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev-eservis": "node htmlParsing/eServis.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
