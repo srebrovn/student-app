@@ -1,0 +1,4128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+   <name>si,46.1836337275,15.08422851,8</name>
+  <Placemark id="81348571">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> University of Ljubljana<br><b>Address:</b> Kongresni trg 12, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.504155,46.049194,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348570">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Law<br><b>Address:</b> Poljanski nasip 2, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.511099,46.051525,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348569">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Veterinary faculty<br><b>Address:</b> Gerbi&#269;eva ulica 60, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.487364,46.03996,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348568">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Theology<br><b>Address:</b> Poljanska cesta 4, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.511608,46.050652,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348567">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Economics<br><b>Address:</b> Kardeljeva plo&#353;&#269;ad 17, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.51645,46.074,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348566">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Education<br><b>Address:</b> Kardeljeva plo&#353;&#269;ad 16, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.517949,46.07539,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348565">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Natural sciences and Engineering<br><b>Address:</b> Sne&#382;ni&#353;ka 5, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.497409,46.046402,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348564">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Medicine<br><b>Address:</b> Vrazov trg 2, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.518161,46.050918,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348563">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Arts<br><b>Address:</b> A&#353;ker&#269;eva cesta 2, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.500197,46.04672,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348562">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Administration<br><b>Address:</b> Gosarjeva ulica 5, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.515203,46.074434,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348561">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Sport<br><b>Address:</b> Gortanova 22, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.532623,46.050753,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348560">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Mechanical engineering<br><b>Address:</b> A&#353;ker&#269;eva cesta 6, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.49899,46.047309,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348559">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Health Sciences<br><b>Address:</b> Zdravstvena pot 5, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.51648,46.048761,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348558">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Social work<br><b>Address:</b> Topni&#353;ka cesta 31, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.518115,46.066619,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348557">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Computer and Information science<br><b>Address:</b> Ve&#269;na pot 113, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.469,46.0501,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348556">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Mathematics and Physics<br><b>Address:</b> Jadranska ulica 19, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.489536,46.042561,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348555">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of maritime studies and transportation<br><b>Address:</b> Pot pomor&#353;&#269;akov 4, Portoro&#382;<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.5787046,45.5167051,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348554">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Chemistry and Chemical tehnology<br><b>Address:</b> Ve&#269;na pot 113, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.46765,46.0505,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348553">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Civil engineering an Geodesy<br><b>Address:</b> Jamova cesta 2, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.494947,46.045752,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348552">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Pharmacy<br><b>Address:</b> A&#353;ker&#269;eva cesta 7, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.498173,46.046617,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348551">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Electrical engineering<br><b>Address:</b> Tr&#382;a&#353;ka cesta 25, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.489231,46.044899,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348550">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Social sciences<br><b>Address:</b> Kardeljeva plo&#353;&#269;ad 5, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.513667,46.07423,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348549">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Arhitecture<br><b>Address:</b> Zoisova 12, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.5039062,46.0458953,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348548">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Biotehnical faculty<br><b>Address:</b> Jamnikarjeva ulica 101, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.474588,46.049359,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348547">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Academy of Fine arts<br><b>Address:</b> Erjav&#269;eva cesta 23, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.496563,46.050005,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348546">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Academy of Theatre, Film, Radio and Television<br><b>Address:</b> Nazorjeva ulica 3, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.504971,46.052501,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348545">
+   <name>University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Academy of Music<br><b>Address:</b> Stari trg 34, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.5066182,46.0468641,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348527">
+   <name>Pedago&#353;ki in&#353;titut </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Pedago&#353;ki in&#353;titut<br><b>Address:</b> Gerbi&#269;eva ulica 62, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.486971,46.039964,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348413">
+   <name>Institut &quot;Jo&#382;ef Stefan&quot; </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Institut &quot;Jo&#382;ef Stefan&quot;<br><b>Address:</b> Jamova cesta 39, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.487866,46.042352,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348414">
+   <name>Kemijski in&#353;titut </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Kemijski in&#353;titut<br><b>Address:</b> Hajdrihova ulica 19, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.493069,46.042834,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348830">
+   <name>Gimnazija Novo mesto </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Gimnazija Novo mesto<br><b>Address:</b> Seidlova cesta 9, Novo mesto<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.164068,45.807543,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348411">
+   <name>University of Primorska </name>
+   <description>
+     <![CDATA[ <b>Name:</b> University of Primorska<br><b>Address:</b> Muzejski trg 2, Koper<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.7281174,45.5488139,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348410">
+   <name>University of Primorska </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Science and Research Centre of Koper<br><b>Address:</b> Garibaldijeva ul. 1, Koper<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.7285865,45.5475515,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348409">
+   <name>University of Primorska </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Primorska Institue of Natural Sciences and Technology<br><b>Address:</b> Muzejski trg 2, Koper<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.7281174,45.5488139,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348408">
+   <name>University of Primorska </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Education Koper<br><b>Address:</b> Cankarjeva ul. 5, Koper<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.7311713,45.5482652,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348407">
+   <name>University of Primorska </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Mathematics, Natural Sciences and Information Tehnologies Koper<br><b>Address:</b> Glagolja&#353;ka ul.8, Koper<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.7311713,45.5482652,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348406">
+   <name>University of Primorska </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Management Koper<br><b>Address:</b> Cankarjeva ul. 5, Koper<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.7311713,45.5482652,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348405">
+   <name>University of Primorska </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Humanities Koper<br><b>Address:</b> Titov trg 5, Koper<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.7294383,45.5480519,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348404">
+   <name>University of Primorska </name>
+   <description>
+     <![CDATA[ <b>Name:</b> University of Primorska<br><b>Address:</b> Titov trg 4, Koper<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.7294383,45.5480519,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348437">
+   <name>Gimnazija Ptuj </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Gimnazija Ptuj<br><b>Address:</b> Volkmerjeva cesta 15, Ptuj<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.869295,46.425214,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348541">
+   <name>Osnovna &#353;ola Elvire Vatovec Prade - Koper </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Elvire Vatovec Prade - Koper<br><b>Address:</b> Pobe&#353;ka cesta 52, Prade, Koper<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.771561,45.540334,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348501">
+   <name>Osnovna &#353;ola Kri&#382;e </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Kri&#382;e<br><b>Address:</b> Cesta Kokr&#353;kega odreda 16, Kri&#382;e<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.294966,46.340623,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348431">
+   <name>Geolo&#353;ki zavod Slovenije </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Geolo&#353;ki zavod Slovenije<br><b>Address:</b> Dimi&#269;eva ulica 14, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.514672,46.070955,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348841">
+   <name>Knji&#382;nica Josipa Vo&#353;njaka </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Josip Vo&#353;njak Library<br><b>Address:</b> Trg Svobode 16, Slovenska Bistrica<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.5733794,46.3929863,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348839">
+   <name>Knji&#382;nica Ivana Potr&#269;a </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Ivan Potrc2 Library<br><b>Address:</b> Pre&#353;ernova 33-35, Ptuj<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.866317248,46.419914474,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348433">
+   <name>Strokovni center Planina </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Strokovni center Planina<br><b>Address:</b> Planina 211, Planina<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.239768,45.823904,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348846">
+   <name>Mariborska knji&#382;nica </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Mariborska knji&#382;nica<br><b>Address:</b> Rotov&#353;ki trg 2, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.6458187,46.5586242,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348436">
+   <name>Urbanisti&#269;ni in&#353;titut Republike Slovenije </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Urbanisti&#269;ni in&#353;titut Republike Slovenije<br><b>Address:</b> Trnovski pristan 2, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.505419,46.043068,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348491">
+   <name>Osnovna &#353;ola narodnega heroja Maksa Pe&#269;arja </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola narodnega heroja Maksa Pe&#269;arja<br><b>Address:</b> &#268;rnu&#353;ka cesta 9, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.533905,46.105072,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348435">
+   <name>Nacionalni in&#353;titut za biologijo </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Nacionalni in&#353;titut za biologijo<br><b>Address:</b> Ve&#269;na pot 111, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.469977,46.051232,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348434">
+   <name>In&#353;titut za kovinske materiale in tehnologije </name>
+   <description>
+     <![CDATA[ <b>Name:</b> In&#353;titut za kovinske materiale in tehnologije<br><b>Address:</b> Lepi pot 11, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.495141,46.045093,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348480">
+   <name>Academic and research network of Slovenia </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Academic and Research Network of Slovenia<br><b>Address:</b> Jamova cesta 39, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.487859,46.042356,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348479">
+   <name>Academic and research network of Slovenia </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Academic and research network of Slovenia<br><b>Address:</b> Tehnolo&#353;ki park 18, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.460483,46.049968,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348848">
+   <name>Osrednja knji&#382;nica Celje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osrednja knji&#382;nica Celje<br><b>Address:</b> Muzejski trg 1a, Celje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.261232853,46.227969035,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348850">
+   <name>Pokrajinska in &#353;tudijska knji&#382;nica Murska Sobota </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Pokrajinska in &#353;tudijska knji&#382;nica Murska Sobota<br><b>Address:</b> Zvezna ulica 10, Murska Sobota<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.163882017,46.659245348,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348838">
+   <name>Central Tehnological Library at the University of Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Central Tehnological Library at the University of Ljubljana<br><b>Address:</b> Trg republike 3, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.499701,46.050209,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348851">
+   <name>University library of Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> University library of Maribor<br><b>Address:</b> Gospejna ulica 10, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.6425687,46.5594406,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348516">
+   <name>Gimnazija Moste </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Gimnazija Moste<br><b>Address:</b> Zalo&#353;ka cesta 49, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.532512,46.055463,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348847">
+   <name>Ljubljana City Library </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Ljubljana City Library<br><b>Address:</b> Kersnikova ulica 2, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.503923,46.055449,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348544">
+   <name>National and University Library </name>
+   <description>
+     <![CDATA[ <b>Name:</b> National and University Library<br><b>Address:</b> Turja&#353;ka 1, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.50382,46.047628,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348852">
+   <name>Valvasorjeva knji&#382;nica Kr&#353;ko </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Valvasorjeva knji&#382;nica Kr&#353;ko<br><b>Address:</b> Cesta kr&#353;kih &#382;rtev 26, Kr&#353;ko<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.4859861,45.9652963,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348837">
+   <name>Institute of information science - IZUM </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Institute of information science - IZUM<br><b>Address:</b> Pre&#353;ernova ulica 17, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.6513478,46.5636147,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348538">
+   <name>Dija&#353;ki in &#353;tudentski dom Kranj </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Dija&#353;ki in &#353;tudentski dom Kranj<br><b>Address:</b> Kidri&#269;eva cesta 53, Kranj<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.349341,46.251981,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348788">
+   <name>Gimnazija Murska Sobota </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Gimnazija Murska Sobota<br><b>Address:</b> &#352;olsko naselje 12, Murska Sobota<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.152164,46.660524,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348444">
+   <name>&#352;olski center Ravne na Koro&#353;kem, Gimnazija </name>
+   <description>
+     <![CDATA[ <b>Name:</b> &#352;olski center Ravne na Koro&#353;kem, Gimnazija<br><b>Address:</b> Na gradu 4, Ravne na Koro&#353;kem<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.95715,46.540856,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348780">
+   <name>Gimnazija &#352;i&#353;ka </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Gimnazija &#352;i&#353;ka<br><b>Address:</b> Alja&#382;eva ulica 32, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.496004,46.069606,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348840">
+   <name>Knji&#382;nica Ivana Tav&#269;arja &#352;kofja Loka </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Ivan Tav&#269;ar Library in &#352;kofja Loka<br><b>Address:</b> &#352;olska ulica 6, &#352;kofja Loka<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.306924343,46.168210824,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348842">
+   <name>Knji&#382;nica Lendava </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Lendava Library<br><b>Address:</b> Glavna ulica 12, Lendava<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.453410387,46.563256963,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348843">
+   <name>Knji&#382;nica Mirana Jarca </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Knji&#382;nica Mirana Jarca<br><b>Address:</b> Rozmanova 28, Novo mesto<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.1669069,45.804899816,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348844">
+   <name>Knji&#382;nica Toneta Seli&#353;karja </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Knji&#382;nica Toneta Seli&#353;karja<br><b>Address:</b> Ulica 1. junija 19, Trbovlje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.043611364,46.15084055,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348513">
+   <name>Knji&#382;nica Velenje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Knji&#382;nica Velenje<br><b>Address:</b> &#352;ale&#353;ka cesta 21, Velenje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.117745399,46.35947195,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348845">
+   <name>Knji&#382;nica &#352;entjur </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Knji&#382;nica &#352;entjur<br><b>Address:</b> Mestni trg 5b, &#352;entjur<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.394803227,46.216555589,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348817">
+   <name>Kosovelova knji&#382;nica Se&#382;ana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Kosovelova knji&#382;nica Se&#382;ana<br><b>Address:</b> Ulica Mirka Pirca 1, Se&#382;ana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.873883767,45.708712313,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348459">
+   <name>Moderna galerija - Muzej sodobne umetnosti </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Moderna galerija - Muzej sodobne umetnosti<br><b>Address:</b> Maistrova ulica 3, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.517092,46.055822,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348537">
+   <name>Narodna galerija </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Narodna galerija<br><b>Address:</b> Puharjeva ulica 9, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.500407,46.054437,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348443">
+   <name>National Museum of Slovenia </name>
+   <description>
+     <![CDATA[ <b>Name:</b> National Museum of Slovenia - Metelkova<br><b>Address:</b> Maistrova ulica 1, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.516928,46.0552339,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348442">
+   <name>National Museum of Slovenia </name>
+   <description>
+     <![CDATA[ <b>Name:</b> National Museum of Slovenia<br><b>Address:</b> Pre&#353;ernova cesta 20, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.499309,46.052106,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348535">
+   <name>Osnovna &#353;ola Bistrica ob Sotli </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Bistrica ob Sotli<br><b>Address:</b> Bistrica ob Sotli 63A, Bistrica ob Sotli<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.664612,46.055552,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348514">
+   <name>Osnovna &#353;ola Dragomirja Ben&#269;i&#269;a - Brkina Hrpelje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Dragomirja Ben&#269;i&#269;a - Brkina Hrpelje<br><b>Address:</b> Re&#353;ka cesta 30, Hrpelje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.945989,45.605621,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348520">
+   <name>Osnovna &#353;ola Grm Novo mesto </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Grm Novo mesto<br><b>Address:</b> Trdinova ulica 7, Novo mesto<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.172327,45.799099,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348499">
+   <name>Osnovna &#353;ola Janka Glazerja Ru&#353;e </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Janka Glazerja Ru&#353;e<br><b>Address:</b> Lesjakova ulica 4, Ru&#353;e<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.508857,46.538916,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348705">
+   <name>Srednja ekonomska &#353;ola Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Srednja ekonomska &#353;ola Ljubljana<br><b>Address:</b> Ro&#353;ka cesta 2, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.519385,46.046177,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348506">
+   <name>Srednja vzgojiteljska &#353;ola, gimnazija in umetni&#353;ka gimnazija Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Srednja vzgojiteljska &#353;ola, gimnazija in umetni&#353;ka gimnazija Ljubljana<br><b>Address:</b> Kardeljeva plo&#353;&#269;ad 16, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.517556,46.075286,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348600">
+   <name>Srednja &#353;ola tehni&#353;kih strok &#352;i&#353;ka </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Srednja &#353;ola tehni&#353;kih strok &#352;i&#353;ka<br><b>Address:</b> Litostrojska cesta 51, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.490755,46.081054,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348596">
+   <name>Srednja &#353;ola za farmacijo, kozmetiko in zdravstvo </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Srednja &#353;ola za farmacijo, kozmetiko in zdravstvo<br><b>Address:</b> Zdravstvena pot 1, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.515951,46.047288,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348457">
+   <name>The National Education Institute of the Republic of Slovenia </name>
+   <description>
+     <![CDATA[ <b>Name:</b> The National Education Institute of the Republic of Slovenia<br><b>Address:</b> Privoz 11, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.511757,46.04147,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348456">
+   <name>The National Education Institute of the Republic of Slovenia </name>
+   <description>
+     <![CDATA[ <b>Name:</b> The National Education Institute of the Republic of Slovenia<br><b>Address:</b> Podgorska cesta 2, Slovenj Gradec<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.07632384,46.507820369,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348455">
+   <name>The National Education Institute of the Republic of Slovenia </name>
+   <description>
+     <![CDATA[ <b>Name:</b> The National Education Institute of the Republic of Slovenia<br><b>Address:</b> Novi trg 5, Novo mesto<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.163331912,45.804367826,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348454">
+   <name>The National Education Institute of the Republic of Slovenia </name>
+   <description>
+     <![CDATA[ <b>Name:</b> The National Education Institute of the Republic of Slovenia<br><b>Address:</b> Erjav&#269;eva ulica 2, Nova Gorica<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.644841789,45.95569123,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348453">
+   <name>The National Education Institute of the Republic of Slovenia </name>
+   <description>
+     <![CDATA[ <b>Name:</b> The National Education Institute of the Republic of Slovenia<br><b>Address:</b> Slom&#353;kova ulica 33, Murska Sobota<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.165578785,46.658225662,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348452">
+   <name>The National Education Institute of the Republic of Slovenia </name>
+   <description>
+     <![CDATA[ <b>Name:</b> The National Education Institute of the Republic of Slovenia<br><b>Address:</b> Trg revolucije 7, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.645187978,46.553821246,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348451">
+   <name>The National Education Institute of the Republic of Slovenia </name>
+   <description>
+     <![CDATA[ <b>Name:</b> The National Education Institute of the Republic of Slovenia<br><b>Address:</b> Dunajska 104, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.5118505,46.0734664,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348450">
+   <name>The National Education Institute of the Republic of Slovenia </name>
+   <description>
+     <![CDATA[ <b>Name:</b> The National Education Institute of the Republic of Slovenia<br><b>Address:</b> Kidri&#269;eva 53, Kranj<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.349333,46.2519886,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348449">
+   <name>The National Education Institute of the Republic of Slovenia </name>
+   <description>
+     <![CDATA[ <b>Name:</b> The National Education Institute of the Republic of Slovenia<br><b>Address:</b> Cankarjeva ulica 5, Koper<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.73218596,45.548445587,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348448">
+   <name>The National Education Institute of the Republic of Slovenia </name>
+   <description>
+     <![CDATA[ <b>Name:</b> The National Education Institute of the Republic of Slovenia<br><b>Address:</b> Cankarjeva ulica 1, Celje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.265653133,46.230240154,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348447">
+   <name>The National Education Institute of the Republic of Slovenia </name>
+   <description>
+     <![CDATA[ <b>Name:</b> The National Education Institute of the Republic of Slovenia<br><b>Address:</b> Poljanska cesta 28, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.518587,46.048936,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348440">
+   <name>Zavod za gradbeni&#353;tvo Slovenije </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Zavod za gradbeni&#353;tvo Slovenije<br><b>Address:</b> Dimi&#269;eva ulica 12, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.513876,46.070295,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348623">
+   <name>&#352;olski center Kr&#353;ko - Sevnica </name>
+   <description>
+     <![CDATA[ <b>Name:</b> &#352;olski center Kr&#353;ko - Sevnica<br><b>Address:</b> Cesta kr&#353;kih &#382;rtev 131, Kr&#353;ko<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.486047,45.945252,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348465">
+   <name>Osnovna &#353;ola Ivana Cankarja Ljutomer </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Ivana Cankarja Ljutomer<br><b>Address:</b> Cankarjeva cesta 10, Ljutomer<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.195028,46.515991,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348585">
+   <name>Osnovna &#353;ola Sveti Toma&#382; </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Sveti Toma&#382;<br><b>Address:</b> Sveti Toma&#382; 11, Sveti Toma&#382;<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.076928,46.484984,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348591">
+   <name>Osnovna &#353;ola Ivana Kav&#269;i&#269;a </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Ivana Kav&#269;i&#269;a<br><b>Address:</b> Izlake 4, Izlake<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.930265,46.154969,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348466">
+   <name>Osnovna &#353;ola Odranci </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Odranci<br><b>Address:</b> Pre&#353;ernova ulica 1, Odranci<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.275828,46.587668,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348463">
+   <name>Osnovna &#353;ola Danile Kumar </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Danile Kumar<br><b>Address:</b> Gogalova ulica 15, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.510767,46.087143,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348462">
+   <name>Osnovna &#353;ola Dragomelj </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Dragomelj<br><b>Address:</b> Dragomelj 180, Dragomelj<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.59404,46.10513,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348464">
+   <name>O&#352; &#352;martno v Tuhinju </name>
+   <description>
+     <![CDATA[ <b>Name:</b> O&#352; &#352;martno v Tuhinju<br><b>Address:</b> &#352;martno v Tuhinju 27A, &#352;martno v Tuhinju<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.735525,46.216327,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348467">
+   <name>Osnovna &#353;ola Sladki Vrh </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Sladki Vrh<br><b>Address:</b> Sladki Vrh 8A, Sladki Vrh<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.740387,46.698068,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348468">
+   <name>Osnovna &#353;ola Mislinja </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Mislinja<br><b>Address:</b> &#352;entilj pod Turjakom 1, &#352;entilj pod Turjakom<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.192003,46.447799,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348696">
+   <name>&#352;olski center &#352;kofja Loka </name>
+   <description>
+     <![CDATA[ <b>Name:</b> &#352;olski center &#352;kofja Loka<br><b>Address:</b> Podlubnik 1B, &#352;kofja Loka<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.302035,46.169386,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348574">
+   <name>Srednja frizerska &#353;ola Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Srednja frizerska &#353;ola Ljubljana<br><b>Address:</b> Litostrojska cesta 53, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.491052,46.081011,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348684">
+   <name>Osnovna &#353;ola &#268;rna na Koro&#353;kem </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola &#268;rna na Koro&#353;kem<br><b>Address:</b> Center 142, &#268;rna na Koro&#353;kem<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.855578,46.468305,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348536">
+   <name>Gimnazija &#352;kofja Loka </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Gimnazija &#352;kofja Loka<br><b>Address:</b> Podlubnik 1B, &#352;kofja Loka<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.302035,46.169386,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348469">
+   <name>Osnovna &#353;ola &#381;etale </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola &#381;etale<br><b>Address:</b> &#268;ermo&#382;i&#353;e 45B, &#268;ermo&#382;i&#353;e<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.789714,46.273391,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348730">
+   <name>Biotehni&#353;ka &#353;ola Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Biotehni&#353;ka &#353;ola Maribor<br><b>Address:</b> Vrbanska cesta 30, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.634551,46.568821,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348460">
+   <name>&#352;olski center za po&#353;to, ekonomijo in telekomunikacije Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> &#352;olski center za po&#353;to, ekonomijo in telekomunikacije Ljubljana<br><b>Address:</b> Celjska ulica 16, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.514509,46.067445,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348471">
+   <name>Osnovna &#353;ola &#352;entjan&#382; pri Dravogradu </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola &#352;entjan&#382; pri Dravogradu<br><b>Address:</b> &#352;entjan&#382; pri Dravogradu 88, &#352;entjan&#382; pri Dravogradu<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.036136,46.560443,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348530">
+   <name>Osnovna &#353;ola Toma Brejca Kamnik </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Toma Brejca Kamnik<br><b>Address:</b> &#352;utna 39, Kamnik<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.606694,46.221447,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348474">
+   <name>Osnovna &#353;ola Louisa Adami&#269;a Grosuplje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Louisa Adami&#269;a Grosuplje<br><b>Address:</b> Tovarni&#353;ka cesta 14, Grosuplje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.658743,45.953201,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348472">
+   <name>Osnovna &#353;ola Du&#353;ana Muniha Most na So&#269;i </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Du&#353;ana Muniha Most na So&#269;i<br><b>Address:</b> Most na So&#269;i 18A, Most na So&#269;i<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.744993,46.152335,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348461">
+   <name>Alma Mater Europaea - Evropski center Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Alma Mater Europaea - Evropski center Maribor<br><b>Address:</b> Slovenska ulica 17, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.645314,46.56015,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348526">
+   <name>Gimnazija Franceta Pre&#353;erna </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Gimnazija Franceta Pre&#353;erna<br><b>Address:</b> Kidri&#269;eva cesta 65, Kranj<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.350963,46.252989,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348860">
+   <name>Biotechnical Educational Centre Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Biotechnical Educational Centre Ljubljana<br><b>Address:</b> Cesta v Mestni log 47, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.492933523,46.0369354,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348481">
+   <name>Osnovna &#353;ola Bistrica </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Bistrica<br><b>Address:</b> Begunjska cesta 2, Bistrica pri Tr&#382;i&#269;u<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.292787,46.35658,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348438">
+   <name>Gimnazija Jo&#382;eta Ple&#269;nika Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Gimnazija Jo&#382;eta Ple&#269;nika Ljubljana<br><b>Address:</b> &#352;ubi&#269;eva ulica 1, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.502314,46.050747,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348475">
+   <name>Osnovna &#353;ola Blanca </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Blanca<br><b>Address:</b> Blanca 13, Blanca<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.392002,45.991727,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348589">
+   <name>Srednja zdravstvena &#353;ola Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Srednja zdravstvena &#353;ola Ljubljana<br><b>Address:</b> Poljanska cesta 61, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.522395,46.04924,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348441">
+   <name>Gimnazija Be&#382;igrad </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Gimnazija Be&#382;igrad<br><b>Address:</b> Peri&#269;eva ulica 4, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.511911,46.064429,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348502">
+   <name>Osnovna &#353;ola Naklo </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Naklo<br><b>Address:</b> Glavna cesta 47, Naklo<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.318985,46.272489,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348492">
+   <name>Osnovna &#353;ola Spodnja Idrija </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Spodnja Idrija<br><b>Address:</b> &#352;olska ulica 9, Spodnja Idrija<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.02181,46.033651,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348586">
+   <name>Osnovna &#353;ola Sre&#269;ka Kosovela Se&#382;ana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Sre&#269;ka Kosovela Se&#382;ana<br><b>Address:</b> Kosovelova ulica 6, Se&#382;ana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.868416,45.705758,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348679">
+   <name>Prva osnovna &#353;ola Slovenj Gradec </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Prva osnovna &#353;ola Slovenj Gradec<br><b>Address:</b> &#352;ercerjeva ulica 7, Slovenj Gradec<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.078196,46.504363,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348439">
+   <name>&#352;olski center Slovenj Gradec </name>
+   <description>
+     <![CDATA[ <b>Name:</b> &#352;olski center Slovenj Gradec<br><b>Address:</b> Koro&#353;ka ulica 11, Slovenj Gradec<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.077404,46.506136,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348776">
+   <name>Osnovna &#353;ola Oto&#269;ec </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Oto&#269;ec<br><b>Address:</b> &#352;olska cesta 20, Oto&#269;ec<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.214718,45.836665,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348849">
+   <name>Sre&#269;ko Vilhar Public Library </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Sre&#269;ko Vilhar Public Library<br><b>Address:</b> Trg Brolo 1, Koper<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.7306545,45.5479486,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348476">
+   <name>Osnovna &#353;ola Miklav&#382; pri Ormo&#382;u </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Miklav&#382; pri Ormo&#382;u<br><b>Address:</b> Miklav&#382; pri Ormo&#382;u 29, Miklav&#382; pri Ormo&#382;u<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.213817,46.457961,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348656">
+   <name>Mladinski dom Jar&#353;e Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Mladinski dom Jar&#353;e Ljubljana<br><b>Address:</b> Jar&#353;ka cesta 44, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.539439,46.074161,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348529">
+   <name>III. gimnazija Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> III. gimnazija Maribor<br><b>Address:</b> Gosposvetska cesta 4, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.641069,46.560696,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348458">
+   <name>Znanstvenoraziskovalni center Slovenske akademije znanosti in umetnosti </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Znanstvenoraziskovalni center Slovenske akademije znanosti in umetnosti<br><b>Address:</b> Novi trg 2, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.504719,46.047609,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348482">
+   <name>Osnovna &#353;ola Litija </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Litija<br><b>Address:</b> Ulica Mire Pregljeve 3, Litija<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.832968,46.056536,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348489">
+   <name>Osnovna &#353;ola Marije Vere </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Marije Vere<br><b>Address:</b> Ljubljanska cesta 16A, Kamnik<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.595942,46.206312,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348483">
+   <name>Osnovna &#353;ola Toneta Okrogarja </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Toneta Okrogarja<br><b>Address:</b> &#352;olska ulica 1, Zagorje ob Savi<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.986717,46.13918,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348478">
+   <name>Center RS za mobilnost in evropske programe izobra&#382;evanja in usposabljanja </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Center RS za mobilnost in evropske programe izobra&#382;evanja in usposabljanja<br><b>Address:</b> Ob &#382;eleznici 30A, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.537268,46.060125,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348493">
+   <name>Srednja &#353;ola za oblikovanje in fotografijo Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Srednja &#353;ola za oblikovanje in fotografijo Ljubljana<br><b>Address:</b> Gosposka ulica 18, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.503682,46.046587,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348508">
+   <name>Osnovna &#353;ola Koper </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Koper<br><b>Address:</b> Cesta Zore Perello-Godina 1, Koper<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.72813,45.543027,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348500">
+   <name>Osnovna &#353;ola dr. Franceta Pre&#353;erna </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola dr. Franceta Pre&#353;erna<br><b>Address:</b> &#352;olska ulica 2, Ribnica<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.727239,45.741547,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348626">
+   <name>Osnovna &#353;ola Ljudski vrt Ptuj </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Ljudski vrt Ptuj<br><b>Address:</b> &#381;upan&#269;i&#269;eva ulica 10, Ptuj<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.877756,46.42873,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348504">
+   <name>Osnovna &#353;ola Lovrenc na Pohorju </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Lovrenc na Pohorju<br><b>Address:</b> &#352;olska ulica 6, Lovrenc na Pohorju<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.387633,46.540886,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348533">
+   <name>Osnovna &#353;ola Ivanjkovci </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Ivanjkovci<br><b>Address:</b> Ivanjkovci 71A, Ivanjkovci<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.154398,46.461537,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348497">
+   <name>Osnovna &#353;ola Raka </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Raka<br><b>Address:</b> Raka 36, Raka<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.380781,45.929313,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348510">
+   <name>Osnovna &#353;ola Sostro </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Sostro<br><b>Address:</b> Cesta II. grupe odredov 47, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.598992,46.035524,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348402">
+   <name>Univerza v Mariboru Fakulteta za organizacijske vede Kranj </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Univerza v Mariboru Fakulteta za organizacijske vede Kranj<br><b>Address:</b> Kidri&#269;eva cesta 55A, Kranj<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.349481,46.251145,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348412">
+   <name>Univerza v Mariboru Fakulteta za elektrotehniko, ra&#269;unalni&#353;tvo in informatiko </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Univerza v Mariboru Fakulteta za elektrotehniko, ra&#269;unalni&#353;tvo in informatiko<br><b>Address:</b> Koro&#353;ka cesta 46, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.638076,46.559058,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348779">
+   <name>Zavod za gluhe in naglu&#353;ne Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Zavod za gluhe in naglu&#353;ne Ljubljana<br><b>Address:</b> Vojkova cesta 74, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.520009,46.071148,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348597">
+   <name>Osnovna &#353;ola Bo&#353;tanj </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Bo&#353;tanj<br><b>Address:</b> Bo&#353;tanj 54A, Bo&#353;tanj<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.283107,46.009911,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348613">
+   <name>Osnovna &#353;ola &#381;elezniki </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola &#381;elezniki<br><b>Address:</b> Otoki 13, &#381;elezniki<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.164313,46.224005,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348445">
+   <name>Univerza v Novi Gorici </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Univerza v Novi Gorici<br><b>Address:</b> Vipavska cesta 13, Ro&#382;na Dolina<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.640123,45.942266,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348446">
+   <name>Fakulteta za informacijske &#353;tudije v Novem mestu </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Fakulteta za informacijske &#353;tudije v Novem mestu<br><b>Address:</b> Ljubljanska cesta 31A, Novo mesto<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.154176,45.817427,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348470">
+   <name>Osnovna &#353;ola Kajetna Kovi&#269;a Radenci </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Kajetna Kovi&#269;a Radenci<br><b>Address:</b> Radgonska cesta 10, Radenci<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.038364,46.642839,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348473">
+   <name>Osnovna &#353;ola Ivana Groharja </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Ivana Groharja<br><b>Address:</b> Podlubnik 1, &#352;kofja Loka<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.300473,46.170052,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348484">
+   <name>Osnovna &#353;ola Koseze </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Koseze<br><b>Address:</b> Ledarska ulica 23, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.468881,46.073937,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348485">
+   <name>Osnovna &#353;ola Gorje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Gorje<br><b>Address:</b> Zgornje Gorje 44A, Zgornje Gorje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.06609,46.380823,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348486">
+   <name>Center za izobra&#382;evanje, rehabilitacijo in usposabljanje Vipava </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Center za izobra&#382;evanje, rehabilitacijo in usposabljanje Vipava<br><b>Address:</b> Vojkova ulica 33, Vipava<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.961675,45.841271,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348487">
+   <name>Srednja tehni&#353;ka in poklicna &#353;ola Trbovlje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Srednja tehni&#353;ka in poklicna &#353;ola Trbovlje<br><b>Address:</b> &#352;u&#353;tarjeva kolonija 7A, Trbovlje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.046429,46.14645,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348496">
+   <name>Gimnazija Vi&#269; </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Gimnazija Vi&#269;<br><b>Address:</b> Tr&#382;a&#353;ka cesta 72, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.480364,46.0432,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348505">
+   <name>Srednja tehni&#353;ka &#353;ola Koper </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Srednja tehni&#353;ka &#353;ola Koper<br><b>Address:</b> &#352;marska cesta 4E, Koper<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.734244,45.532503,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348509">
+   <name>Osnovna &#353;ola Selnica ob Dravi </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Selnica ob Dravi<br><b>Address:</b> Mariborska cesta 30, Selnica ob Dravi<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.489211,46.550796,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348512">
+   <name>I. gimnazija v Celju </name>
+   <description>
+     <![CDATA[ <b>Name:</b> I. gimnazija v Celju<br><b>Address:</b> Kajuhova ulica 2, Celje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.258137,46.230964,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348518">
+   <name>&#352;olski center Kranj </name>
+   <description>
+     <![CDATA[ <b>Name:</b> &#352;olski center Kranj<br><b>Address:</b> Kidri&#269;eva cesta 55, Kranj<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.348813,46.250593,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348430">
+   <name>University of Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Energy Technology<br><b>Address:</b> Ho&#269;evarjev trg 1, Kr&#353;ko<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.483738184,45.967968201,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348429">
+   <name>University of Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Organizational Sciences<br><b>Address:</b> Kidri&#269;eva cesta 55a, Kranj<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.349473,46.251153,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348428">
+   <name>University of Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Logistics<br><b>Address:</b> Mariborska cesta 7, Celje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.267970562,46.233936087,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348427">
+   <name>University of Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Criminal justice and Security<br><b>Address:</b> Kotnikova ulica 8, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.513293,46.054792,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348426">
+   <name>University of Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Law<br><b>Address:</b> Mladinska ul. 9, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.6460309,46.5573948,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348425">
+   <name>University of Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Education<br><b>Address:</b> Koro&#353;ka cesta 160, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.6264019,46.5626866,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348424">
+   <name>University of Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Medicine<br><b>Address:</b> Slom&#353;kov trg 15, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.6451287,46.5594185,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348423">
+   <name>University of Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Arts<br><b>Address:</b> Koro&#353;ka cesta 160, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.6264019,46.5626866,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348422">
+   <name>University of Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Mechanical Engineering<br><b>Address:</b> Smetanova 17, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.6394236,46.5595466,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348421">
+   <name>University of Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Natural Sciences and Mathematics<br><b>Address:</b> Koro&#353;ka cesta 160, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.6264019,46.5626866,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348420">
+   <name>University of Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Agriculture and Life Sciences<br><b>Address:</b> Pivola 10, Ho&#269;e<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.6225793,46.505466,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348419">
+   <name>University of Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Chemistry and Chemical Engineering<br><b>Address:</b> Smetanova ul. 17, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.6460309,46.5573948,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348418">
+   <name>University of Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of civil engineering<br><b>Address:</b> Smetanova ul. 17, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.6460309,46.5573948,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348417">
+   <name>University of Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Electrical Engineering and Computer Science<br><b>Address:</b> Smetanova ul.17, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.6460309,46.5573948,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348416">
+   <name>University of Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Faculty of Economics and Business<br><b>Address:</b> Razlagova 14, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.6520241,46.5620424,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348415">
+   <name>University of Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> University of Maribor<br><b>Address:</b> Slom&#353;kov trg 15, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.6451287,46.5594185,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348494">
+   <name>Gimnazija Jesenice </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Gimnazija Jesenice<br><b>Address:</b> Trg Toneta &#268;ufarja 1, Jesenice<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.060584,46.435866,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348495">
+   <name>GRM Novo mesto - center biotehnike in turizma </name>
+   <description>
+     <![CDATA[ <b>Name:</b> GRM Novo mesto - center biotehnike in turizma<br><b>Address:</b> Sevno 13, Sevno<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.189925,45.832822,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348498">
+   <name>Gimnazija Celje - Center </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Gimnazija Celje - Center<br><b>Address:</b> Kosovelova ulica 1, Celje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.264147,46.232516,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348507">
+   <name>Osnovna &#353;ola Franja Goloba Prevalje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Franja Goloba Prevalje<br><b>Address:</b> Polje 4, Prevalje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.922486,46.547577,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348511">
+   <name>Ekonomska &#353;ola Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Ekonomska &#353;ola Ljubljana<br><b>Address:</b> Pre&#353;ernova cesta 6, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.497305,46.048746,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348515">
+   <name>Osnovna &#353;ola Trnovo </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Trnovo<br><b>Address:</b> Karunova ulica 14A, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.500986,46.041717,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348517">
+   <name>Osnovna &#353;ola &#352;en&#269;ur </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola &#352;en&#269;ur<br><b>Address:</b> Pipanova cesta 43, &#352;en&#269;ur<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.418894,46.248594,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348519">
+   <name>Ekonomska gimnazija in srednja &#353;ola Radovljica </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Ekonomska gimnazija in srednja &#353;ola Radovljica<br><b>Address:</b> Gorenjska cesta 13, Radovljica<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.171941,46.342652,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348522">
+   <name>Osnovna &#353;ola Tr&#382;i&#269; </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Tr&#382;i&#269;<br><b>Address:</b> &#352;olska ulica 7, Tr&#382;i&#269;<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.311355,46.36488,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348524">
+   <name>Gimnazija in srednja &#353;ola Rudolfa Maistra Kamnik </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Gimnazija in srednja &#353;ola Rudolfa Maistra Kamnik<br><b>Address:</b> Novi trg 41A, Kamnik<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.611675,46.220969,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348521">
+   <name>Dija&#353;ki dom Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Dija&#353;ki dom Maribor<br><b>Address:</b> Gosposvetska cesta 89, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.623545,46.564671,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348432">
+   <name>&#352;olski center Novo mesto </name>
+   <description>
+     <![CDATA[ <b>Name:</b> &#352;olski center Novo mesto<br><b>Address:</b> &#352;egova ulica 112, Novo mesto<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.159116,45.794692,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348488">
+   <name>Srednja gradbena, geodetska in okoljevarstvena &#353;ola Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Srednja gradbena, geodetska in okoljevarstvena &#353;ola Ljubljana<br><b>Address:</b> Dunajska cesta 102, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.513372,46.073208,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348503">
+   <name>Osnovna &#353;ola Notranjski odred Cerknica </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Notranjski odred Cerknica<br><b>Address:</b> Cesta 4. maja 92, Cerknica<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.356865,45.796359,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348532">
+   <name>ACADEMIA,d.o.o. </name>
+   <description>
+     <![CDATA[ <b>Name:</b> ACADEMIA,d.o.o.<br><b>Address:</b> Glavni trg 17B, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.646394,46.557697,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348824">
+   <name>Osnovna &#353;ola Drska </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Drska<br><b>Address:</b> Ulica Slavka Gruma 63, Novo mesto<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.154626,45.794275,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348525">
+   <name>Vrtec &#352;kratek Svit Vodice </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Vrtec &#352;kratek Svit Vodice<br><b>Address:</b> Franca Se&#353;ka cesta 15, Vodice<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.49638,46.184837,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348572">
+   <name>Osnovna &#353;ola Bre&#382;ice </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Bre&#382;ice<br><b>Address:</b> Levstikova ulica 18, Bre&#382;ice<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.595952,45.907066,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348531">
+   <name>Osnovna &#353;ola Ig </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Ig<br><b>Address:</b> Tro&#353;tova ulica 24, Ig<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.528637,45.960757,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348580">
+   <name>In&#353;titut za novej&#353;o zgodovino Slovenije </name>
+   <description>
+     <![CDATA[ <b>Name:</b> In&#353;titut za novej&#353;o zgodovino Slovenije<br><b>Address:</b> Privoz 11, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.511764,46.041467,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348534">
+   <name>Lavri&#269; library in Ajdov&#353;&#269;ina </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Lavri&#269; library in Ajdov&#353;&#269;ina<br><b>Address:</b> Cesta IV. prekomorske 1, Ajdov&#353;&#269;ina<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.90752939,45.8880682,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348581">
+   <name>Srednja trgovska &#353;ola Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Srednja trgovska &#353;ola Ljubljana<br><b>Address:</b> Poljanska cesta 28A, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.517931,46.048475,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348584">
+   <name>&#352;olski center Celje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> &#352;olski center Celje<br><b>Address:</b> Pot na Lavo 22, Celje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.256823,46.235511,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348853">
+   <name>Koro&#353;ka osrednja knji&#382;nica dr. Franca Su&#353;nika </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Koro&#353;ka osrednja knji&#382;nica dr. Franca Su&#353;nika<br><b>Address:</b> Na gradu 1, Ravne na Koro&#353;kem<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.957569899,46.5419545,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348854">
+   <name>Radlje ob Dravi library </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Radlje ob Dravi library<br><b>Address:</b> Koro&#353;ka cesta 61a, Radlje ob Dravi<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.212645,46.614779,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348855">
+   <name>Lenart library </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Lenart library<br><b>Address:</b> Nikova ulica 9, Lenart<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.83155,46.5761634,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348856">
+   <name>Ko&#269;evje library </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Ko&#269;evjelibrary<br><b>Address:</b> Trg zbora odposlancev 26, Ko&#269;evje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.8579713,45.6382121,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348857">
+   <name>Dom&#382;ale library </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Dom&#382;ale library<br><b>Address:</b> Cesta talcev 4, Dom&#382;ale<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.600667,46.136935,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348858">
+   <name>Ciril Kosma&#269; library in Tolmin </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Ciril Kosma&#269; library in Tolmin<br><b>Address:</b> Tumov drevored 6, Tolmin<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.73166909,46.1832555,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348859">
+   <name>Gori&#353;ka knji&#382;nica Franceta Bevka </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Gori&#353;ka knji&#382;nica Franceta Bevka<br><b>Address:</b> Trg Edvarda Kardelja 4, Nova Gorica<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.6502024,45.9570926,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348528">
+   <name>Osnovna &#353;ola bratov Polan&#269;i&#269;ev Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola bratov Polan&#269;i&#269;ev Maribor<br><b>Address:</b> Pre&#353;ernova ulica 19, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.651048,46.564067,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348588">
+   <name>Gimnazija Franca Miklo&#353;i&#269;a Ljutomer </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Gimnazija Franca Miklo&#353;i&#269;a Ljutomer<br><b>Address:</b> Pre&#353;ernova ulica 34, Ljutomer<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.194918,46.522281,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348590">
+   <name>Osnovna &#353;ola Brusnice </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Brusnice<br><b>Address:</b> Velike Brusnice 101, Velike Brusnice<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.256658,45.811636,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348592">
+   <name>Osnovna &#353;ola Danila Lokarja Ajdov&#353;&#269;ina </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Danila Lokarja Ajdov&#353;&#269;ina<br><b>Address:</b> Cesta 5. maja 15, Ajdov&#353;&#269;ina<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.90298,45.891246,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348594">
+   <name>Osnovna &#353;ola Neznanih talcev Dravograd </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Neznanih talcev Dravograd<br><b>Address:</b> Trg 4. julija 64, Dravograd<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.020118,46.58912,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348593">
+   <name>Osnovna &#353;ola Bo&#382;idarja Jakca Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Bo&#382;idarja Jakca Ljubljana<br><b>Address:</b> Nusdorferjeva ulica 10, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.546832,46.049015,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348595">
+   <name>Dija&#353;ki dom Lizike Jan&#269;ar </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Dija&#353;ki dom Lizike Jan&#269;ar<br><b>Address:</b> Titova cesta 24A, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.648963,46.550062,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348539">
+   <name>Gimnazija Nova Gorica </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Gimnazija Nova Gorica<br><b>Address:</b> Delpinova ulica 9, Nova Gorica<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.645635,45.95743,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348573">
+   <name>Gimnazija in srednja &#353;ola Ko&#269;evje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Gimnazija in srednja &#353;ola Ko&#269;evje<br><b>Address:</b> Ljubljanska cesta 12, Ko&#269;evje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.857889,45.641076,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348587">
+   <name>&#352;olski center Sre&#269;ka Kosovela Se&#382;ana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> &#352;olski center Sre&#269;ka Kosovela Se&#382;ana<br><b>Address:</b> Stjenkova ulica 3, Se&#382;ana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.86795,45.705313,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348599">
+   <name>Gimnazija Ormo&#382; </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Gimnazija Ormo&#382;<br><b>Address:</b> Hardek 5A, Hardek<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.154229,46.410444,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348542">
+   <name>Gimnazija Kranj </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Gimnazija Kranj<br><b>Address:</b> Koro&#353;ka cesta 13, Kranj<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.354846,46.242601,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348617">
+   <name>Osnovna &#353;ola Jo&#382;eta Gorjupa Kostanjevica na Krki </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Jo&#382;eta Gorjupa Kostanjevica na Krki<br><b>Address:</b> Gorjanska cesta 2, Kostanjevica na Krki<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.423592,45.843538,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348619">
+   <name>&#352;kofijska gimnazija Vipava </name>
+   <description>
+     <![CDATA[ <b>Name:</b> &#352;kofijska gimnazija Vipava<br><b>Address:</b> Gori&#353;ka cesta 29, Vipava<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.958816,45.845519,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348614">
+   <name>Osnovna &#353;ola Frana Albrehta Kamnik </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Frana Albrehta Kamnik<br><b>Address:</b> &#352;olska ulica 1, Kamnik<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.608147,46.221218,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348618">
+   <name>Osnovna &#353;ola Livada Velenje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Livada Velenje<br><b>Address:</b> Efenkova cesta 60, Velenje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.122708,46.362847,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348624">
+   <name>Osnovna &#353;ola Bla&#382;a Arni&#269;a Lu&#269;e </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Bla&#382;a Arni&#269;a Lu&#269;e<br><b>Address:</b> Lu&#269;e 77, Lu&#269;e<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.745539,46.35568,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348606">
+   <name>Osnovna &#353;ola Dravlje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Dravlje<br><b>Address:</b> Klop&#269;i&#269;eva ulica 1, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.477407,46.080139,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348630">
+   <name>Osnovna &#353;ola Karla Destovnika-Kajuha &#352;o&#353;tanj </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Karla Destovnika-Kajuha &#352;o&#353;tanj<br><b>Address:</b> Koro&#353;ka cesta 7, &#352;o&#353;tanj<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.046685,46.380376,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348577">
+   <name>Osnovna &#353;ola Gornja Radgona </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Gornja Radgona<br><b>Address:</b> Pre&#382;ihova ulica 1, Gornja Radgona<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.990498,46.674023,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348627">
+   <name>Osnovna &#353;ola Muta </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Muta<br><b>Address:</b> &#352;olska ulica 6, Muta<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.16251,46.608365,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348655">
+   <name>Osnovna &#353;ola Fram </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Fram<br><b>Address:</b> Turnerjeva ulica 120, Fram<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.627172,46.456185,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348616">
+   <name>Osnovna &#353;ola Gorica Velenje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Gorica Velenje<br><b>Address:</b> Gori&#353;ka cesta 48, Velenje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.130228,46.355317,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348666">
+   <name>Osnovna &#353;ola 27. julij Kamnik </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola 27. julij Kamnik<br><b>Address:</b> Tom&#353;i&#269;eva ulica 9, Kamnik<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.612929,46.226929,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348579">
+   <name>Osnovna &#353;ola Ormo&#382; </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Ormo&#382;<br><b>Address:</b> Hardek 5, Hardek<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.153174,46.410392,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348621">
+   <name>Osnovna &#353;ola Duplek </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Duplek<br><b>Address:</b> Korenska cesta 31, Spodnji Duplek<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.755958,46.504015,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348660">
+   <name>Osnovna &#353;ola I Murska Sobota </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola I Murska Sobota<br><b>Address:</b> Ulica &#352;tefana Kova&#269;a 32, Murska Sobota<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.155632,46.66137,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348638">
+   <name>Osnovna &#353;ola &#352;marje pri Jel&#353;ah </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola &#352;marje pri Jel&#353;ah<br><b>Address:</b> Vegova ulica 26, &#352;marje pri Jel&#353;ah<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.517208,46.232251,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348658">
+   <name>Osnovna &#353;ola II Murska Sobota </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola II Murska Sobota<br><b>Address:</b> Cankarjeva ulica 91, Murska Sobota<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.157929,46.656948,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348615">
+   <name>Osnovna &#353;ola Toneta &#352;raja Aljo&#353;e </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Toneta &#352;raja Aljo&#353;e<br><b>Address:</b> Nova vas 4B, Nova vas<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.507052,45.773772,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348647">
+   <name>Osnovna &#353;ola &quot;Koro&#353;ki jeklarji&quot; Ravne na Koro&#353;kem </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola &quot;Koro&#353;ki jeklarji&quot; Ravne na Koro&#353;kem<br><b>Address:</b> Javornik 35, Ravne na Koro&#353;kem<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.97067,46.543568,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348632">
+   <name>Osnovna &#353;ola &#268;epovan </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola &#268;epovan<br><b>Address:</b> &#268;epovan 87, &#268;epovan<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.793028,46.050065,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348670">
+   <name>Osnovna &#353;ola Rada Robi&#269;a Limbu&#353; </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Rada Robi&#269;a Limbu&#353;<br><b>Address:</b> Limbu&#353;ka cesta 62, Limbu&#353;<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.579237,46.556321,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348686">
+   <name>Konservatorij za glasbo in balet Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Konservatorij za glasbo in balet Maribor<br><b>Address:</b> Mladinska ulica 12, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.646107,46.563205,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348687">
+   <name>Osnovna &#353;ola Pirni&#269;e </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Pirni&#269;e<br><b>Address:</b> Zgornje Pirni&#269;e 37B, Zgornje Pirni&#269;e<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.433063,46.140517,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348668">
+   <name>Osnovna &#353;ola Jela Jane&#382;i&#269;a </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Jela Jane&#382;i&#269;a<br><b>Address:</b> Podlubnik 1, &#352;kofja Loka<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.300473,46.170052,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348669">
+   <name>Osnovna &#353;ola narodnega heroja Rajka Hrastnik </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola narodnega heroja Rajka Hrastnik<br><b>Address:</b> Log 19, Hrastnik<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.083021,46.144278,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348625">
+   <name>Osnovna &#353;ola Frana Ro&#353;a </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Frana Ro&#353;a<br><b>Address:</b> Cesta na Dobrovo 114, Celje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.265088,46.250158,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348690">
+   <name>Srednja &#353;ola &#268;rnomelj </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Srednja &#353;ola &#268;rnomelj<br><b>Address:</b> Kidri&#269;eva ulica 18A, &#268;rnomelj<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.188669,45.565465,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348640">
+   <name>Osnovna &#353;ola Olge Megli&#269; </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Olge Megli&#269;<br><b>Address:</b> Pre&#353;ernova ulica 31, Ptuj<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.866803,46.419889,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348674">
+   <name>Osnovna &#353;ola Brinje Grosuplje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Brinje Grosuplje<br><b>Address:</b> Ljubljanska cesta 40A, Grosuplje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.657604,45.962177,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348694">
+   <name>Osnovna &#353;ola Ivana Babi&#269;a-Jagra Marezige </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Ivana Babi&#269;a-Jagra Marezige<br><b>Address:</b> Marezige 33A, Marezige<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.800526,45.509606,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348649">
+   <name>Osnovna &#353;ola Oskarja Kova&#269;i&#269;a &#352;kofije </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Oskarja Kova&#269;i&#269;a &#352;kofije<br><b>Address:</b> Spodnje &#352;kofije 40D, Spodnje &#352;kofije<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.79103,45.56823,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348676">
+   <name>Osnovna &#353;ola &#268;rni Vrh </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola &#268;rni Vrh<br><b>Address:</b> &#268;rni Vrh 95, &#268;rni Vrh<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.046109,45.924534,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348663">
+   <name>Srednja ekonomska &#353;ola in gimnazija Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Srednja ekonomska &#353;ola in gimnazija Maribor<br><b>Address:</b> Trg Borisa Kidri&#269;a 3, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.655222,46.561929,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348697">
+   <name>Osnovna &#353;ola &quot;Borcev za severno mejo&quot; Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola &quot;Borcev za severno mejo&quot; Maribor<br><b>Address:</b> Borcev za severno mejo 16, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.659273,46.548546,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348673">
+   <name>Osnovna &#353;ola Anice &#268;ernejeve Makole </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Anice &#268;ernejeve Makole<br><b>Address:</b> Makole 24, Makole<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.668022,46.317957,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348698">
+   <name>Osnovna &#353;ola Martina Krpana Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Martina Krpana Ljubljana<br><b>Address:</b> Ga&#353;per&#353;i&#269;eva ulica 10, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.555168,46.052116,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348688">
+   <name>Osnovna &#353;ola Stari trg ob Kolpi </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Stari trg ob Kolpi<br><b>Address:</b> Stari trg ob Kolpi 7, Stari trg ob Kolpi<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.076949,45.492952,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348629">
+   <name>Osnovna &#353;ola Polzela </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Polzela<br><b>Address:</b> &#352;olska ulica 3, Polzela<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.07748,46.279853,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348695">
+   <name>Osnovna &#353;ola Rodica </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Rodica<br><b>Address:</b> Kettejeva ulica 13, Dom&#382;ale<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.598038,46.149636,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348708">
+   <name>Osnovna &#353;ola Tabor I Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Tabor I Maribor<br><b>Address:</b> Ulica Arnolda Tovornika 21, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.630042,46.536619,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348683">
+   <name>Srednja zdravstvena &#353;ola Murska Sobota </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Srednja zdravstvena &#353;ola Murska Sobota<br><b>Address:</b> Ulica dr. Vrbnjaka 2, Raki&#269;an<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.189469,46.650308,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348716">
+   <name>Osnovna &#353;ola Menge&#353; </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Menge&#353;<br><b>Address:</b> &#352;olska ulica 11, Menge&#353;<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.568612,46.166426,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348639">
+   <name>Osnovna &#353;ola Gabrovka - Dole </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Gabrovka - Dole<br><b>Address:</b> Gabrovka 30, Gabrovka<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.988179,46.000358,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348653">
+   <name>Dvojezi&#269;na osnovna &#353;ola Prosenjakovci </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Dvojezi&#269;na osnovna &#353;ola Prosenjakovci<br><b>Address:</b> Prosenjakovci 97C, Prosenjakovci<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.306667,46.74486,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348701">
+   <name>Osnovna &#353;ola Mirana Jarca &#268;rnomelj </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Mirana Jarca &#268;rnomelj<br><b>Address:</b> Ulica Otona &#381;upan&#269;i&#269;a 8, &#268;rnomelj<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.192078,45.573323,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348641">
+   <name>Osnovna &#353;ola Miren </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Miren<br><b>Address:</b> Miren 140, Miren<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.604745,45.891318,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348717">
+   <name>Osnovna &#353;ola Miklav&#382; na Dravskem polju </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Miklav&#382; na Dravskem polju<br><b>Address:</b> Cesta v Dobrovce 21, Miklav&#382; na Dravskem polju<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.702917,46.499109,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348719">
+   <name>&#352;olski center Slovenske Konjice - Zre&#269;e </name>
+   <description>
+     <![CDATA[ <b>Name:</b> &#352;olski center Slovenske Konjice - Zre&#269;e<br><b>Address:</b> Tattenbachova ulica 2A, Slovenske Konjice<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.417558,46.337522,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348607">
+   <name>Center IRIS - Center za izobra&#382;evanje, rehabilitacijo, inkluzijo in svetovanje za slepe in slabovidne </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Center IRIS - Center za izobra&#382;evanje, rehabilitacijo, inkluzijo in svetovanje za slepe in slabovidne<br><b>Address:</b> Langusova ulica 8, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.492212,46.044648,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348689">
+   <name>Osnovna &#353;ola Vinica </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Vinica<br><b>Address:</b> Vinica 50, Vinica<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.250548,45.459992,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348702">
+   <name>Osnovna &#353;ola Milke &#352;obar - Nata&#353;e &#268;rnomelj </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Milke &#352;obar - Nata&#353;e &#268;rnomelj<br><b>Address:</b> Kurirska steza 8, &#268;rnomelj<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.192594,45.574222,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348678">
+   <name>Osnovna &#353;ola Lucijana Bratkovi&#269;a Bratu&#353;a Ren&#269;e </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Lucijana Bratkovi&#269;a Bratu&#353;a Ren&#269;e<br><b>Address:</b> Trg 31, Ren&#269;e<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.671584,45.889072,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348711">
+   <name>Gimnazija, elektro in pomorska &#353;ola Piran </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Gimnazija, elektro in pomorska &#353;ola Piran<br><b>Address:</b> Bolni&#353;ka ulica 11, Piran<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.569774,45.528954,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348605">
+   <name>Osnovna &#353;ola Pod&#269;etrtek </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Pod&#269;etrtek<br><b>Address:</b> Tr&#353;ka cesta 66, Pod&#269;etrtek<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.597952,46.157017,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348723">
+   <name>Osnovna &#353;ola Jurija Vege Morav&#269;e </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Jurija Vege Morav&#269;e<br><b>Address:</b> Vegova ulica 38, Morav&#269;e<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.746316,46.138237,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348654">
+   <name>Osnovna &#353;ola Dutovlje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Dutovlje<br><b>Address:</b> Dutovlje 135, Dutovlje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.829221,45.760477,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348718">
+   <name>Izobra&#382;evalni center Piramida Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Izobra&#382;evalni center Piramida Maribor<br><b>Address:</b> Park mladih 3, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.643672,46.547024,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348662">
+   <name>Osnovna &#353;ola Lesi&#269;no </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Lesi&#269;no<br><b>Address:</b> Lesi&#269;no 5B, Lesi&#269;no<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.518916,46.102735,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348710">
+   <name>Osnovna &#353;ola Orehek Kranj </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Orehek Kranj<br><b>Address:</b> Zasavska cesta 53A, Kranj<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.364872,46.218769,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348680">
+   <name>Osnovna &#353;ola Maj&#353;perk </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Maj&#353;perk<br><b>Address:</b> Maj&#353;perk 32B, Maj&#353;perk<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.735098,46.348468,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348715">
+   <name>Osnovna &#353;ola Matije &#268;opa Kranj </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Matije &#268;opa Kranj<br><b>Address:</b> Ulica Tuga Vidmarja 1, Kranj<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.368014,46.237573,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348601">
+   <name>Osnovna &#353;ola dr. Janeza Mencingerja Bohinjska Bistrica </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola dr. Janeza Mencingerja Bohinjska Bistrica<br><b>Address:</b> Savska cesta 10, Bohinjska Bistrica<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.952929,46.275585,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348682">
+   <name>&#352;olski center Roga&#353;ka Slatina </name>
+   <description>
+     <![CDATA[ <b>Name:</b> &#352;olski center Roga&#353;ka Slatina<br><b>Address:</b> Steklarska ulica 1, Roga&#353;ka Slatina<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.643876,46.222276,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348725">
+   <name>Osnovna &#353;ola Franca Rozmana  Staneta, Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Franca Rozmana  Staneta, Ljubljana<br><b>Address:</b> Pru&#353;nikova ulica 85, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.466624,46.096258,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348523">
+   <name>Osnovna &#353;ola Matije Valjavca Preddvor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Matije Valjavca Preddvor<br><b>Address:</b> &#352;olska ulica 9, Preddvor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.420031,46.304499,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348636">
+   <name>Osnovna &#353;ola Pre&#382;ihovega Voranca Ravne na Koro&#353;kem </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Pre&#382;ihovega Voranca Ravne na Koro&#353;kem<br><b>Address:</b> Gozdarska pot 11, Ravne na Koro&#353;kem<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.961402,46.539526,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348728">
+   <name>Univerza na Primorskem &#352;tudentski domovi </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Univerza na Primorskem &#352;tudentski domovi<br><b>Address:</b> Ankaranska cesta 7, Koper<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.740527,45.545836,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348726">
+   <name>&#352;olski center Ravne na Koro&#353;kem </name>
+   <description>
+     <![CDATA[ <b>Name:</b> &#352;olski center Ravne na Koro&#353;kem<br><b>Address:</b> Na gradu 4, Ravne na Koro&#353;kem<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.95715,46.540856,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348732">
+   <name>Osnovna &#353;ola Lenart </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Lenart<br><b>Address:</b> Ptujska cesta 25, Lenart v Slov. goricah<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.832115,46.572131,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348734">
+   <name>Tehnolo&#353;ki park Ljubljana d.o.o. </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Tehnolo&#353;ki park Ljubljana d.o.o.<br><b>Address:</b> Tehnolo&#353;ki park 19, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.460755,46.049381,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348729">
+   <name>Gimnazija Poljane </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Gimnazija Poljane<br><b>Address:</b> Strossmayerjeva ulica 1, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.513536,46.050076,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348713">
+   <name>Osnovna &#353;ola Dom&#382;ale </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Dom&#382;ale<br><b>Address:</b> Bistri&#353;ka cesta 19, Dom&#382;ale<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.601211,46.142215,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348733">
+   <name>Osnovna &#353;ola Toneta &#268;ufarja Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Toneta &#268;ufarja Maribor<br><b>Address:</b> Zrkovska cesta 67, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.671713,46.555977,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348645">
+   <name>Osnovna &#353;ola Ko&#353;ana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Ko&#353;ana<br><b>Address:</b> Dolnja Ko&#353;ana 61, Dolnja Ko&#353;ana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.127029,45.665301,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348722">
+   <name>Glasbena &#353;ola Se&#382;ana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Glasbena &#353;ola Se&#382;ana<br><b>Address:</b> Kosovelova ulica 4B, Se&#382;ana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.869607,45.706544,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348712">
+   <name>Osnovna &#353;ola Jakoba Alja&#382;a Kranj </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Jakoba Alja&#382;a Kranj<br><b>Address:</b> Ulica Ton&#269;ka De&#382;mana 1, Kranj<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.365814,46.236076,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348735">
+   <name>Osnovna &#353;ola Ketteja in Murna </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Ketteja in Murna<br><b>Address:</b> Ko&#353;irjeva ulica 2, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.531809,46.051492,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348739">
+   <name>Osnovna &#353;ola Sveti Jurij ob &#352;&#269;avnici </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Sveti Jurij ob &#352;&#269;avnici<br><b>Address:</b> Ulica Edvarda Kocbeka 4, Sveti Jurij ob &#352;&#269;avnici<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.016852,46.568413,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348576">
+   <name>Srednja zdravstvena in kozmeti&#269;na &#353;ola Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Srednja zdravstvena in kozmeti&#269;na &#353;ola Maribor<br><b>Address:</b> Trg Milo&#353;a Zidan&#353;ka 3, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.644643,46.549763,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348740">
+   <name>Osnovna &#353;ola Dobrova </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Dobrova<br><b>Address:</b> Cesta 7. maja 20, Dobrova<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.411975,46.056672,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348737">
+   <name>Osnovna &#353;ola Preserje pri Radomljah </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Preserje pri Radomljah<br><b>Address:</b> Pelechova cesta 83, Preserje pri Radomljah<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.605387,46.172065,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348612">
+   <name>Osnovna &#353;ola Col </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Col<br><b>Address:</b> Col 35, Col<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.001601,45.880704,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348650">
+   <name>Osnovna &#353;ola Antona &#352;ibelja - Stjenka Komen </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Antona &#352;ibelja - Stjenka Komen<br><b>Address:</b> Komen 61A, Komen<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.750038,45.820691,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348747">
+   <name>Osnovna &#353;ola Dekani </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Dekani<br><b>Address:</b> Dekani 32, Dekani<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.805958,45.547483,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348745">
+   <name>Osnovna &#353;ola Mihe Pintarja - Toleda Velenje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Mihe Pintarja - Toleda Velenje<br><b>Address:</b> Kidri&#269;eva cesta 21, Velenje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.114017,46.364089,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348721">
+   <name>Srednja &#353;ola Izola </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Srednja &#353;ola Izola<br><b>Address:</b> Ulica Prekomorskih brigad 7, Izola<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.658165,45.535289,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348754">
+   <name>Osnovna &#353;ola Draga Bajca Vipava </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Draga Bajca Vipava<br><b>Address:</b> Vinarska cesta 4, Vipava<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.961942,45.840104,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348756">
+   <name>Osnovna &#353;ola Mladika </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Mladika<br><b>Address:</b> &#381;nidari&#269;evo nabre&#382;je 1, Ptuj<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.872969,46.416576,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348746">
+   <name>Osnovna &#353;ola heroja Janeza Hribarja Stari trg pri Lo&#382;u </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola heroja Janeza Hribarja Stari trg pri Lo&#382;u<br><b>Address:</b> Cesta Notranjskega odreda 32, Stari trg pri Lo&#382;u<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.472895,45.712712,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348760">
+   <name>Osnovna &#353;ola Ludvika Pliber&#353;ka Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Ludvika Pliber&#353;ka Maribor<br><b>Address:</b> Lackova cesta 4, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.619069,46.537012,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348771">
+   <name>Osnovna &#353;ola Kamnica </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Kamnica<br><b>Address:</b> Vrbanska cesta 93, Kamnica<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.617393,46.571911,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348738">
+   <name>Osnovna &#353;ola Draga Kobala Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Draga Kobala Maribor<br><b>Address:</b> Tolstojeva ulica 3, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.670232,46.547933,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348750">
+   <name>Osnovna &#353;ola Fokovci </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Fokovci<br><b>Address:</b> Fokovci 32, Fokovci<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.268411,46.732003,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348774">
+   <name>Osnovna &#353;ola Franca Rozmana - Staneta Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Franca Rozmana - Staneta Maribor<br><b>Address:</b> Kersnikova ulica 10, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.655444,46.564078,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348778">
+   <name>Osnovna &#353;ola Ver&#382;ej </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Ver&#382;ej<br><b>Address:</b> Pu&#353;&#269;enjakova ulica 7, Ver&#382;ej<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.16084,46.57871,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348772">
+   <name>&#352;olski center &#352;entjur </name>
+   <description>
+     <![CDATA[ <b>Name:</b> &#352;olski center &#352;entjur<br><b>Address:</b> Cesta na kmetijsko &#353;olo 9, &#352;entjur<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.410352,46.216788,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348758">
+   <name>Center za vzgojo, izobra&#382;evanje in usposabljanje Velenje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Center za vzgojo, izobra&#382;evanje in usposabljanje Velenje<br><b>Address:</b> Kidri&#269;eva cesta 19, Velenje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.115575,46.363718,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348767">
+   <name>Osnovna &#353;ola &#352;turje, Ajdov&#353;&#269;ina </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola &#352;turje, Ajdov&#353;&#269;ina<br><b>Address:</b> Bevkova ulica 22, Ajdov&#353;&#269;ina<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.913516,45.884868,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348783">
+   <name>Osnovna &#353;ola Cirila Kosma&#269;a Piran </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Cirila Kosma&#269;a Piran<br><b>Address:</b> Olj&#269;na pot 24, Piran<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.571651,45.525612,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348575">
+   <name>&#352;olski center Nova Gorica </name>
+   <description>
+     <![CDATA[ <b>Name:</b> &#352;olski center Nova Gorica<br><b>Address:</b> Cankarjeva ulica 10, Nova Gorica<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.6434,45.957565,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348777">
+   <name>Osnovna &#353;ola Livade - Izola </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Livade - Izola<br><b>Address:</b> Livade 7, Izola<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.658398,45.529785,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348763">
+   <name>Osnovna &#353;ola Me&#382;ica </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Me&#382;ica<br><b>Address:</b> Partizanska cesta 16, Me&#382;ica<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.853348,46.518415,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348785">
+   <name>Osnovna &#353;ola Stopi&#269;e </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Stopi&#269;e<br><b>Address:</b> Stopi&#269;e 37, Stopi&#269;e<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.210889,45.770709,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348604">
+   <name>Osnovna &#353;ola dr. Bogomirja Magajne Diva&#269;a </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola dr. Bogomirja Magajne Diva&#269;a<br><b>Address:</b> Ulica dr. Bogomira Magajne 4, Diva&#269;a<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.967585,45.682824,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348769">
+   <name>Osnovna &#353;ola Davorina Jenka Cerklje na Gorenjskem </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Davorina Jenka Cerklje na Gorenjskem<br><b>Address:</b> Krvav&#353;ka cesta 4, Cerklje na Gorenjskem<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.48847,46.254315,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348784">
+   <name>Osnovna &#353;ola Mozirje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Mozirje<br><b>Address:</b> &#352;olska ulica 23, Mozirje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.955994,46.335303,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348790">
+   <name>Gimnazija &#352;entvid </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Gimnazija &#352;entvid<br><b>Address:</b> Pru&#353;nikova ulica 98, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.465973,46.098109,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348795">
+   <name>Osnovna &#353;ola Preserje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Preserje<br><b>Address:</b> Preserje 60, Preserje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.414888,45.954267,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348543">
+   <name>Gimnazija, elektro in pomorska &#353;ola Piran, enota Dija&#353;ki in &#353;tudentski dom </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Gimnazija, elektro in pomorska &#353;ola Piran, enota Dija&#353;ki in &#353;tudentski dom<br><b>Address:</b> Son&#269;na pot 20, Portoro&#382;<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.583581,45.51696,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348804">
+   <name>Osnovna &#353;ola &#352;marjeta </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola &#352;marjeta<br><b>Address:</b> &#352;marjeta 1, &#352;marjeta<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.24826,45.881703,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348789">
+   <name>&#352;olski center Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> &#352;olski center Ljubljana<br><b>Address:</b> A&#353;ker&#269;eva cesta 1, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.499924,46.046283,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348799">
+   <name>Dvojezi&#269;na osnovna &#353;ola II Lendava </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Dvojezi&#269;na osnovna &#353;ola II Lendava<br><b>Address:</b> Ulica heroja Mohorja 1, Lendava<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.454544,46.560422,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348802">
+   <name>Lesarska &#353;ola Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Lesarska &#353;ola Maribor<br><b>Address:</b> Lesarska ulica 2, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.600505,46.561897,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348813">
+   <name>Osnovna &#353;ola &#381;iri </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola &#381;iri<br><b>Address:</b> Jobstova cesta 22, &#381;iri<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.108687,46.045724,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348808">
+   <name>Osnovna &#353;ola Podlehnik </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Podlehnik<br><b>Address:</b> Podlehnik 7A, Podlehnik<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.880551,46.335706,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348814">
+   <name>Osnovna &#353;ola Maksa Durjave Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Maksa Durjave Maribor<br><b>Address:</b> Ru&#353;ka cesta 15, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.641365,46.554892,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348798">
+   <name>Osnovna &#353;ola Mirana Jarca </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Mirana Jarca<br><b>Address:</b> Ipav&#269;eva ulica 1, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.513917,46.06854,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348759">
+   <name>Osnovna &#353;ola Jarenina </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Jarenina<br><b>Address:</b> Jareninski Dol 26, Jareninski Dol<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.697934,46.628504,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348643">
+   <name>Osnovna &#353;ola Poljane </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Poljane<br><b>Address:</b> Poljane nad &#352;kofjo Loko 100, Poljane nad &#352;kofjo Loko<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.180099,46.119399,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348820">
+   <name>Osnovna &#353;ola Jakobski Dol </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Jakobski Dol<br><b>Address:</b> Spodnji Jakobski Dol 4, Spodnji Jakobski Dol<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.736383,46.627749,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348821">
+   <name>Osnovna &#353;ola dr. Pavla Luna&#269;ka &#352;entrupert </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola dr. Pavla Luna&#269;ka &#352;entrupert<br><b>Address:</b> &#352;entrupert 57, &#352;entrupert<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.087734,45.976579,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348812">
+   <name>Osnovna &#353;ola Sveta Ana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Sveta Ana<br><b>Address:</b> Sv. Ana v Slov. goricah 14, Sv. Ana v Slov. goricah<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.842996,46.648604,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348672">
+   <name>Osnovna &#353;ola Petrov&#269;e </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Petrov&#269;e<br><b>Address:</b> Petrov&#269;e 32, Petrov&#269;e<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.187801,46.245246,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348724">
+   <name>Ekonomska &#353;ola Novo mesto </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Ekonomska &#353;ola Novo mesto<br><b>Address:</b> Ulica talcev 3A, Novo mesto<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.164747,45.806723,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348633">
+   <name>Osnovna &#353;ola Frana Erjavca Nova Gorica </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Frana Erjavca Nova Gorica<br><b>Address:</b> Kidri&#269;eva ulica 36, Nova Gorica<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.645826,45.952214,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348692">
+   <name>Osnovna &#353;ola Poldeta Stra&#382;i&#353;arja Jesenice </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Poldeta Stra&#382;i&#353;arja Jesenice<br><b>Address:</b> Ulica Viktorja Kej&#382;arja 35, Jesenice<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.068163,46.431772,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348677">
+   <name>Osnovna &#353;ola Istrskega odreda Gra&#269;i&#353;&#269;e </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Istrskega odreda Gra&#269;i&#353;&#269;e<br><b>Address:</b> Gra&#269;i&#353;&#269;e 5, Gra&#269;i&#353;&#269;e<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.875313,45.502772,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348681">
+   <name>&#352;olski center Velenje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> &#352;olski center Velenje<br><b>Address:</b> Trg mladosti 3, Velenje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.113609,46.361732,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348652">
+   <name>Tehni&#353;ki &#353;olski center Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Tehni&#353;ki &#353;olski center Maribor<br><b>Address:</b> Zolajeva ulica 12, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.671856,46.525288,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348827">
+   <name>Zavod Antona Martina Slom&#353;ka </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Zavod Antona Martina Slom&#353;ka<br><b>Address:</b> Vrbanska cesta 30, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.634551,46.568821,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348800">
+   <name>Center RS za poklicno izobra&#382;evanje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Center RS za poklicno izobra&#382;evanje<br><b>Address:</b> Kajuhova ulica 32U, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.537123,46.060503,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348752">
+   <name>Gimnazija Gian Rinaldo Carli Koper </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Gimnazija Gian Rinaldo Carli Koper<br><b>Address:</b> Gimnazijski trg 7, Koper<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.731781,45.546397,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348794">
+   <name>Gimnazija Antonio Sema Piran </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Gimnazija Antonio Sema Piran<br><b>Address:</b> Med vrtovi 8, Portoro&#382;<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.584763,45.51629,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348731">
+   <name>Osnovna &#353;ola Kozje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Kozje<br><b>Address:</b> Kozje 131, Kozje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.559163,46.07414,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348403">
+   <name>&#352;olski center Ptuj </name>
+   <description>
+     <![CDATA[ <b>Name:</b> &#352;olski center Ptuj<br><b>Address:</b> Volkmerjeva cesta 19, Ptuj<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.869934,46.426118,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348691">
+   <name>Srednja poklicna in tehni&#353;ka &#353;ola Murska Sobota </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Srednja poklicna in tehni&#353;ka &#353;ola Murska Sobota<br><b>Address:</b> &#352;olsko naselje 12, Murska Sobota<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.152164,46.660524,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348671">
+   <name>Osnovna &#353;ola &#352;entjernej </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola &#352;entjernej<br><b>Address:</b> Prvomajska cesta 9, &#352;entjernej<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.340574,45.844834,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348727">
+   <name>Osnovna &#353;ola Hajdina </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Hajdina<br><b>Address:</b> Spodnja Hajdina 24, Spodnja Hajdina<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.834483,46.416153,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348742">
+   <name>Osnovna &#353;ola Lo&#269;e </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Lo&#269;e<br><b>Address:</b> &#352;olska ulica 5, Lo&#269;e<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.498497,46.301892,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348648">
+   <name>Osnovna &#353;ola in vrtec Sveta Trojica </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola in vrtec Sveta Trojica<br><b>Address:</b> Meznari&#269;eva ulica 1, Sv. Trojica v Slov. goricah<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.87569,46.575476,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348766">
+   <name>Osnovna &#353;ola &#352;martno </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola &#352;martno<br><b>Address:</b> Pungrt 9, &#352;martno pri Litiji<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.843915,46.042291,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348602">
+   <name>Osnovna &#353;ola prof. dr. Josipa Plemlja Bled </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola prof. dr. Josipa Plemlja Bled<br><b>Address:</b> Seli&#353;ka cesta 3, Bled<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.109616,46.372739,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348833">
+   <name>Glasbena &#353;ola Koper </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Glasbena &#353;ola Koper<br><b>Address:</b> Gallusova ulica 2, Koper<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.731172,45.547263,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348801">
+   <name>Osnovna &#353;ola Dob </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Dob<br><b>Address:</b> &#352;olska ulica 7, Dob<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.623268,46.149758,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348834">
+   <name>Osnovna &#353;ola Cvetka Golarja Ljutomer </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Cvetka Golarja Ljutomer<br><b>Address:</b> Cvetka Golarja ulica 6, Ljutomer<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.196587,46.522902,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348628">
+   <name>Osnovna &#353;ola Franceta Bevka Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Franceta Bevka Ljubljana<br><b>Address:</b> Ulica Pohorskega bataljona 1, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.507328,46.078328,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348781">
+   <name>I. osnovna &#353;ola Celje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> I. osnovna &#353;ola Celje<br><b>Address:</b> Vrun&#269;eva ulica 13, Celje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.26596,46.234779,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348608">
+   <name>Osnovna &#353;ola Mirna </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Mirna<br><b>Address:</b> Cesta na Fu&#382;ine 1, Mirna<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.06076,45.951646,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348620">
+   <name>Osnovna &#353;ola Lucija </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Lucija<br><b>Address:</b> Fazan 1, Lucija<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.607226,45.506425,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348635">
+   <name>Osnovna &#353;ola Metlika </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Metlika<br><b>Address:</b> &#352;olska ulica 7, Metlika<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.314021,45.654612,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348709">
+   <name>Osnovna &#353;ola Komandanta Staneta Dragatu&#353; </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Komandanta Staneta Dragatu&#353;<br><b>Address:</b> Dragatu&#353; 48, Dragatu&#353;<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.179296,45.522684,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348622">
+   <name>Osnovna &#353;ola Ferda Vesela &#352;entvid pri Sti&#269;ni </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Ferda Vesela &#352;entvid pri Sti&#269;ni<br><b>Address:</b> &#352;entvid pri Sti&#269;ni 46, &#352;entvid pri Sti&#269;ni<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.834643,45.95303,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348651">
+   <name>Osnovna &#353;ola Voli&#269;ina </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Voli&#269;ina<br><b>Address:</b> Spodnja Voli&#269;ina 82, Spodnja Voli&#269;ina<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.814058,46.544182,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348661">
+   <name>Osnovna &#353;ola Trebnje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Trebnje<br><b>Address:</b> Kidri&#269;eva ulica 11, Trebnje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.00628,45.909914,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348667">
+   <name>Osnovna &#353;ola dr. Jo&#382;eta Pu&#269;nika &#268;re&#353;njevec </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola dr. Jo&#382;eta Pu&#269;nika &#268;re&#353;njevec<br><b>Address:</b> &#268;re&#353;njevec 47, &#268;re&#353;njevec<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.614542,46.372789,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348770">
+   <name>Osnovna &#353;ola Jo&#382;eta Hudalesa Jurovski dol </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Jo&#382;eta Hudalesa Jurovski dol<br><b>Address:</b> Jurovski Dol 13, Jurovski Dol<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.783549,46.608533,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348828">
+   <name>Osnovna &#353;ola Angela Besednjaka Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Angela Besednjaka Maribor<br><b>Address:</b> Celjska ulica 11, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.645252,46.545072,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348610">
+   <name>Osnovna &#353;ola Dobravlje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Dobravlje<br><b>Address:</b> Dobravlje 1, Dobravlje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.841207,45.885059,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348714">
+   <name>Osnovna &#353;ola F. S. Fin&#382;garja Lesce </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola F. S. Fin&#382;garja Lesce<br><b>Address:</b> Begunjska cesta 7, Lesce<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.16171,46.361823,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348490">
+   <name>Osnovna &#353;ola Ivana Cankarja Vrhnika </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Ivana Cankarja Vrhnika<br><b>Address:</b> Lo&#353;ca 1, Vrhnika<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.296748,45.962627,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348657">
+   <name>Osnovna &#353;ola dr. Ale&#353; Bebler - Primo&#382; Hrvatini </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola dr. Ale&#353; Bebler - Primo&#382; Hrvatini<br><b>Address:</b> Hrvatini 137, Hrvatini<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.761968,45.58075,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348704">
+   <name>Osnovna &#353;ola Bogojina </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Bogojina<br><b>Address:</b> Bogojina 134, Bogojina<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.277082,46.676991,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348706">
+   <name>Osnovna &#353;ola Solkan </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Solkan<br><b>Address:</b> &#352;olska ulica 25, Solkan<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.649842,45.96906,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348786">
+   <name>Osnovna &#353;ola Kozara Nova Gorica </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Kozara Nova Gorica<br><b>Address:</b> Kidri&#269;eva ulica 35, Nova Gorica<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.646877,45.951965,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348675">
+   <name>Osnovna &#353;ola Vrhovci </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Vrhovci<br><b>Address:</b> Cesta na Bokalce 1, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.45499,46.044333,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348749">
+   <name>Osnovna &#353;ola Oskarja Kova&#269;i&#269;a </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Oskarja Kova&#269;i&#269;a<br><b>Address:</b> Ob dolenjski &#382;eleznici 48, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.522331,46.034079,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348609">
+   <name>Osnovna &#353;ola Se&#269;ovlje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Se&#269;ovlje<br><b>Address:</b> Se&#269;ovlje 78, Se&#269;ovlje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.628694,45.476585,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348707">
+   <name>Osnovna &#353;ola Star&#353;e </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Star&#353;e<br><b>Address:</b> Star&#353;e 5, Star&#353;e<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.768584,46.466162,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348603">
+   <name>Osnovna &#353;ola Sredi&#353;&#269;e ob Dravi </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Sredi&#353;&#269;e ob Dravi<br><b>Address:</b> Slovenska cesta 22, Sredi&#353;&#269;e ob Dravi<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.264936,46.395956,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348664">
+   <name>Osnovna &#353;ola Sava Kladnika Sevnica </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Sava Kladnika Sevnica<br><b>Address:</b> Trg svobode 42, Sevnica<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.304566,46.009495,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348693">
+   <name>Osnovna &#353;ola Kobilje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Kobilje<br><b>Address:</b> Kobilje 33A, Kobilje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.391736,46.683884,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348700">
+   <name>Dvojezi&#269;na srednja &#353;ola Lendava </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Dvojezi&#269;na srednja &#353;ola Lendava<br><b>Address:</b> Kolodvorska ulica 2E, Lendava<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.447472,46.56474,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348720">
+   <name>Zavod sv. Stanislava za vzgojo, izobra&#382;evanje in kulturne dejavnosti </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Zavod sv. Stanislava za vzgojo, izobra&#382;evanje in kulturne dejavnosti<br><b>Address:</b> &#352;tula 23, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.471106,46.096864,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348744">
+   <name>Muzej novej&#353;e zgodovine Celje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Muzej novej&#353;e zgodovine Celje<br><b>Address:</b> Pre&#353;ernova ulica 17, Celje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.263041,46.228857,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348796">
+   <name>Osnovna &#353;ola Stara Cerkev </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Stara Cerkev<br><b>Address:</b> Stara Cerkev 21, Stara Cerkev<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.840966,45.669362,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348832">
+   <name>Osnovna &#353;ola Janeza Puharja Kranj - Center </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Janeza Puharja Kranj - Center<br><b>Address:</b> Komenskega ulica 4, Kranj<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.359027,46.245522,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348583">
+   <name>Osnovna &#352;ola Milana &#352;u&#353;tar&#353;i&#269;a </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#352;ola Milana &#352;u&#353;tar&#353;i&#269;a<br><b>Address:</b> &#352;tembalova ulica 2A, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.515376,46.079118,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348642">
+   <name>Osnovna &#353;ola Log - Dragomer </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Log - Dragomer<br><b>Address:</b> &#352;olska ulica 1, Dragomer<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.376792,46.013288,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348762">
+   <name>Osnovna &#353;ola Pesnica </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Pesnica<br><b>Address:</b> Pesnica pri Mariboru 44, Pesnica pri Mariboru<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.6748,46.609111,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348793">
+   <name>2. osnovna &#353;ola Slovenska Bistrica </name>
+   <description>
+     <![CDATA[ <b>Name:</b> 2. osnovna &#353;ola Slovenska Bistrica<br><b>Address:</b> &#352;olska ulica 5, Slovenska Bistrica<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.563233,46.392443,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348807">
+   <name>Osnovna &#353;ola Arti&#269;e </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Arti&#269;e<br><b>Address:</b> Arti&#269;e 39, Arti&#269;e<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.585092,45.951598,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348811">
+   <name>Osnovna &#353;ola dr. Vita Kraigherja Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola dr. Vita Kraigherja Ljubljana<br><b>Address:</b> Trg 9. maja 1, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.506128,46.069398,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348826">
+   <name>Osnovna &#353;ola Mi&#353;ka Kranjca Velika Polana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Mi&#353;ka Kranjca Velika Polana<br><b>Address:</b> Velika Polana 215B, Velika Polana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.342834,46.574862,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348631">
+   <name>Osnovna &#353;ola Turni&#353;&#269;e </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Turni&#353;&#269;e<br><b>Address:</b> Pre&#353;ernova ulica 2, Turni&#353;&#269;e<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.313771,46.625195,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348703">
+   <name>Osnovna &#353;ola Maksa Pleter&#353;nika Pi&#353;ece </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Maksa Pleter&#353;nika Pi&#353;ece<br><b>Address:</b> Pi&#353;ece 34, Pi&#353;ece<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.647184,46.003089,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348761">
+   <name>Osnovna &#353;ola Pre&#382;ihovega Voranca </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Pre&#382;ihovega Voranca<br><b>Address:</b> Pre&#382;ihova ulica 8, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.500977,46.054197,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348797">
+   <name>Osnovna &#353;ola Zbora odposlancev Ko&#269;evje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Zbora odposlancev Ko&#269;evje<br><b>Address:</b> Trg zbora odposlancev 28, Ko&#269;evje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.857756,45.63763,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348803">
+   <name>Osnovna &#353;ola Cerkvenjak - Vitomarci </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Cerkvenjak - Vitomarci<br><b>Address:</b> Cerkvenjak 24, Cerkvenjak<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.943835,46.567385,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348816">
+   <name>JVIZ III. Osnovna &#353;ola Roga&#353;ka Slatina </name>
+   <description>
+     <![CDATA[ <b>Name:</b> JVIZ III. Osnovna &#353;ola Roga&#353;ka Slatina<br><b>Address:</b> Izletni&#353;ka ulica 15, Roga&#353;ka Slatina<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.63974,46.233321,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348611">
+   <name>Osnovna &#353;ola Leskovec pri Kr&#353;kem </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Leskovec pri Kr&#353;kem<br><b>Address:</b> Pionirska cesta 4, Leskovec pri Kr&#353;kem<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.479713,45.942166,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348755">
+   <name>II. osnovna &#353;ola Celje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> II. osnovna &#353;ola Celje<br><b>Address:</b> Ljubljanska cesta 46, Celje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.247076,46.236207,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348685">
+   <name>Osnovna &#353;ola Velika Dolina </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Velika Dolina<br><b>Address:</b> Velika Dolina 30, Velika Dolina<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.663876,45.853027,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348775">
+   <name>Osnovna &#353;ola Janka Pade&#382;nika Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Janka Pade&#382;nika Maribor<br><b>Address:</b> Iztokova ulica 6, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.627246,46.557534,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348792">
+   <name>Srednja medijska in grafi&#269;na &#353;ola Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Srednja medijska in grafi&#269;na &#353;ola Ljubljana<br><b>Address:</b> Pokopali&#353;ka ulica 33, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.532409,46.061626,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348823">
+   <name>&#352;olski center Postojna </name>
+   <description>
+     <![CDATA[ <b>Name:</b> &#352;olski center Postojna<br><b>Address:</b> Cesta v Staro vas 2, Postojna<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.211307,45.770407,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348765">
+   <name>Osnovna &#353;ola 8 talcev Logatec </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola 8 talcev Logatec<br><b>Address:</b> Notranjska cesta 3, Logatec<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.229692,45.916325,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348787">
+   <name>Osnovna &#353;ola Gori&#353;nica </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Gori&#353;nica<br><b>Address:</b> Gori&#353;nica 83, Gori&#353;nica<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.013568,46.408271,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348791">
+   <name>Osnovna &#353;ola Jo&#382;eta Krajca Rakek </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Jo&#382;eta Krajca Rakek<br><b>Address:</b> Partizanska cesta 28, Rakek<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.322379,45.81008,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348743">
+   <name>Osnovna &#353;ola Vojnik </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Vojnik<br><b>Address:</b> Pru&#353;nikova ulica 14, Vojnik<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.305307,46.289959,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348825">
+   <name>II. gimnazija Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> II. gimnazija Maribor<br><b>Address:</b> Trg Milo&#353;a Zidan&#353;ka 1, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.644282,46.548982,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348665">
+   <name>Osnovna &#353;ola Podbo&#269;je </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Podbo&#269;je<br><b>Address:</b> Podbo&#269;je 82, Podbo&#269;je<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.462815,45.86301,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348637">
+   <name>Osnovna &#353;ola Nove Fu&#382;ine </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Nove Fu&#382;ine<br><b>Address:</b> Preglov trg 8, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.560711,46.052273,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348578">
+   <name>Osnovna &#353;ola Milojke &#352;trukelj Nova Gorica </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Milojke &#352;trukelj Nova Gorica<br><b>Address:</b> Delpinova ulica 7, Nova Gorica<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.644884,45.956998,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348748">
+   <name>Osnovna &#353;ola Stro&#269;ja vas </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Stro&#269;ja vas<br><b>Address:</b> Stro&#269;ja vas 101, Stro&#269;ja vas<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.223511,46.50878,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348806">
+   <name>Osnovna &#353;ola Benedikt </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Benedikt<br><b>Address:</b> &#352;olska ulica 2, Benedikt<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.889948,46.608042,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348646">
+   <name>Dru&#353;tvo Ljudmila, laboratorij za znanost in umetnost </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Dru&#353;tvo Ljudmila, laboratorij za znanost in umetnost<br><b>Address:</b> Rozmanova ulica 12, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.517058,46.053708,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348659">
+   <name>Osnovna &#353;ola Antona Globo&#269;nika Postojna </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Antona Globo&#269;nika Postojna<br><b>Address:</b> Cesta na Kremenco 2, Postojna<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.213471,45.772861,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348819">
+   <name>Osnovna &#353;ola Korena </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Korena<br><b>Address:</b> Zgornja Korena 32, Zgornja Korena<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.780069,46.519012,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348831">
+   <name>Osnovna &#353;ola Riharda Jakopi&#269;a Ljubljana </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Riharda Jakopi&#269;a Ljubljana<br><b>Address:</b> Der&#269;eva ulica 1, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.488912,46.067748,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348741">
+   <name>Osnovna &#353;ola Mala Nedelja </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Mala Nedelja<br><b>Address:</b> Mala Nedelja 37, Mala Nedelja<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.054851,46.525352,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348764">
+   <name>Osnovna &#353;ola Gustava &#352;iliha Velenje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Gustava &#352;iliha Velenje<br><b>Address:</b> Vodnikova cesta 3, Velenje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.113438,46.360733,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348809">
+   <name>Osnovna &#353;ola Toneta Pav&#269;ka </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Toneta Pav&#269;ka<br><b>Address:</b> Postaja 1, Mirna Pe&#269;<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.091827,45.862637,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348818">
+   <name>Osnovna &#353;ola Prestranek </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Prestranek<br><b>Address:</b> Ulica 25. maja 14A, Prestranek<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.182945,45.731463,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348773">
+   <name>Osnovna &#353;ola Trzin </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Trzin<br><b>Address:</b> Menge&#353;ka cesta 7B, Trzin<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.562368,46.13394,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348699">
+   <name>Osnovna &#353;ola Zalog </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Zalog<br><b>Address:</b> Cerutova ulica 7, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.615097,46.062401,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348598">
+   <name>Knji&#382;nica Antona Toma&#382;a Linharta Radovljica </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Knji&#382;nica Antona Toma&#382;a Linharta Radovljica<br><b>Address:</b> Gorenjska cesta 27, Radovljica<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.171245,46.344915,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348736">
+   <name>Osnovna &#353;ola Cirkulane - Zavr&#269; </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Cirkulane - Zavr&#269;<br><b>Address:</b> Cirkulane 57, Cirkulane<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.994248,46.343635,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348757">
+   <name>Osnovna &#353;ola Simona Gregor&#269;i&#269;a Kobarid </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Simona Gregor&#269;i&#269;a Kobarid<br><b>Address:</b> Gregor&#269;i&#269;eva ulica 18A, Kobarid<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.582311,46.245583,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348829">
+   <name>Osnovna &#353;ola Jurija Dalmatina Kr&#353;ko </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Jurija Dalmatina Kr&#353;ko<br><b>Address:</b> &#352;olska ulica 1, Kr&#353;ko<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.494109,45.959883,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348540">
+   <name>Osnovna &#353;ola Tr&#382;i&#353;&#269;e </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Tr&#382;i&#353;&#269;e<br><b>Address:</b> Tr&#382;i&#353;&#269;e 47, Tr&#382;i&#353;&#269;e<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.191702,45.959265,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348582">
+   <name>Ekonomska &#353;ola Murska Sobota </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Ekonomska &#353;ola Murska Sobota<br><b>Address:</b> Nor&#353;inska ulica 13, Murska Sobota<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.181356,46.665884,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348751">
+   <name>Osnovna &#353;ola Ivana Tav&#269;arja Gorenja vas </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Ivana Tav&#269;arja Gorenja vas<br><b>Address:</b> Trata 40, Gorenja vas<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.141232,46.10102,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348815">
+   <name>Srednja gradbena &#353;ola in gimnazija Maribor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Srednja gradbena &#353;ola in gimnazija Maribor<br><b>Address:</b> Smetanova ulica 35, Maribor<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.636479,46.559696,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348753">
+   <name>Osnovna &#353;ola Rovte </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Rovte<br><b>Address:</b> Rovte 90A, Rovte<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.17496,45.985676,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348835">
+   <name>Glasbena &#353;ola Trebnje </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Glasbena &#353;ola Trebnje<br><b>Address:</b> Kidri&#269;eva ulica 11, Trebnje<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.00628,45.909914,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348810">
+   <name>Osnovna &#353;ola Vransko - Tabor </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Vransko - Tabor<br><b>Address:</b> Vransko 23, Vransko<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.949244,46.242936,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348836">
+   <name>Dru&#353;tvo za razvijanje kibernetske varnosti DragonSec SI </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Dru&#353;tvo za razvijanje kibernetske varnosti DragonSec SI<br><b>Address:</b> Ko&#353;tialova ulica 32, Novo mesto<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.170349,45.812464,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348805">
+   <name>Ministrstvo za izobra&#382;evanje, znanost in &#353;port - Direktorat za znanost </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Ministrstvo za izobra&#382;evanje, znanost in &#353;port - Direktorat za znanost<br><b>Address:</b> Masarykova cesta 16, Ljubljana<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.515591,46.057489,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348822">
+   <name>Osnovna &#353;ola Brezovica pri Ljubljani </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Brezovica pri Ljubljani<br><b>Address:</b> &#352;olska ulica 15, Brezovica pri Ljubljani<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>14.41206,46.016867,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348634">
+   <name>Osnovna &#353;ola Dornberk </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Dornberk<br><b>Address:</b> Gregor&#269;i&#269;eva ulica 30A, Dornberk<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>13.738492,45.886941,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348768">
+   <name>Osnovna &#353;ola Milan Majcen &#352;entjan&#382; </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Milan Majcen &#352;entjan&#382;<br><b>Address:</b> &#352;entjan&#382; 58A, &#352;entjan&#382;<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.170723,46.013023,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348782">
+   <name>Osnovna &#353;ola Ti&#353;ina </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Ti&#353;ina<br><b>Address:</b> Ti&#353;ina 4B, Ti&#353;ina<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>16.09342,46.655613,0 </coordinates>
+   </Point>
+  </Placemark>
+  <Placemark id="81348644">
+   <name>Osnovna &#353;ola Krmelj </name>
+   <description>
+     <![CDATA[ <b>Name:</b> Osnovna &#353;ola Krmelj<br><b>Address:</b> Krmelj 104, Krmelj<br><b>SSID:</b> eduroam<br><b>Enc:</b> WPA2/TKIP,WPA2/AES<br><b>AP:</b> -<br> ]]>
+   </description>
+   <Point>
+     <coordinates>15.18515,45.990579,0 </coordinates>
+   </Point>
+  </Placemark>
+ </Document>
+</kml>

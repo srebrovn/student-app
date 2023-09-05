@@ -1,0 +1,23 @@
+version: '3.8'
+services:
+  node:
+    container_name: main_api_nodejs
+    image: smltg/main_api_nodejs
+    restart: always
+    build: node_API/
+    ports:
+      - '8080:3000'
+    links:
+      - mongo
+    environment:
+      mongoURL: mongo 
+  mongo:
+    container_name: mongo
+    image: mongo
+    ports:
+      - '27017:27017'
+    volumes: 
+      - mongo-data:/data/db
+
+volumes:
+  mongo-data:
